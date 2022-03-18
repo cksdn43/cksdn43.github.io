@@ -1,9 +1,8 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              Chanwoo's Blog
+email:              cksdn43@hufs.ac.kr
+description:        Hello.
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+url:                "https://cksdn43.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
